@@ -67,15 +67,8 @@ To run the **Text Summarizer App** locally, follow these steps:
 3. **Text Summarization**: The backend (in `summarize.js`) communicates with the Hugging Face API to summarize the input text.
 4. **Output**: The summarized text is returned to the frontend and displayed to the user.
 
-### API Interaction with Postman
+## Conclusion
 
-During development, **Postman** is used to test the Hugging Face API integration. You can import the Postman collection from the following link to easily test the API endpoints:
-- [Postman Collection](https://academy.postman.com/project-ai-text-summarizer/86576)
+The **Text Summarizer App** provides an easy-to-use, responsive platform for summarizing lengthy text into concise summaries using advanced AI technology. With a user-friendly frontend and a powerful backend powered by Express.js, this application demonstrates how to integrate machine learning models into a web-based application. You can contribute to the project, expand its features, or integrate additional models to enhance its functionality.
 
-## Demo
-
-You can view a demo of the app and see how it works by visiting the following links:
-
-- [How it looks](https://academy.postman.com/project-ai-text-summarizer/86539)
-- [Project Structure](https://academy.postman.com/project-ai-text-summarizer/86549)
-- [App Workflow](https://academy.postman.com/project-ai-text-summarizer/86576)
+Feel free to fork this repository and start using it for your text summarization needs. Enjoy exploring the power of AI in text summarization!
